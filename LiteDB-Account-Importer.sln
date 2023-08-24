@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiteDB-Account-Importer", "LiteDB-Account-Importer\LiteDB-Account-Importer.csproj", "{40567C8E-C4C5-4F83-AC76-5E8D30D9067B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40567C8E-C4C5-4F83-AC76-5E8D30D9067B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40567C8E-C4C5-4F83-AC76-5E8D30D9067B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40567C8E-C4C5-4F83-AC76-5E8D30D9067B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40567C8E-C4C5-4F83-AC76-5E8D30D9067B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33D7C1DD-899A-4D1F-AD2C-CDE8921C4DBC}
+	EndGlobalSection
+EndGlobal
